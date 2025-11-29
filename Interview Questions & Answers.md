@@ -111,6 +111,5 @@ By identifying the source, encouraging open communication, facilitating negotiat
 
 - **CAPM Certification** → [iCert Global CAPM](https://www.icertglobal.com/project-management/capm-certification)  
 - **iCert Global Homepage** → [https://www.icertglobal.com](https://www.icertglobal.com)  
-- **CAPM Exam Study Resources** → [PMI Resources](https://www.pmi.org/certifications/capm)  
 
 ---

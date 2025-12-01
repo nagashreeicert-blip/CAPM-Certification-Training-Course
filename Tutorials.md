@@ -173,6 +173,6 @@ Simulate exam conditions with timed practice tests to build confidence.
 ## 🔗 Helpful Links
 
 - **CAPM Certification Page** → [iCert Global CAPM](https://www.icertglobal.com/project-management/capm-certification)  
-- **iCert Global Homepage** → [https://www.icertglobal.com](https://www.icertglobal.com)   
+- **iCert Global** → [https://www.icertglobal.com](https://www.icertglobal.com)   
 
 ---
